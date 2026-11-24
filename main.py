@@ -1,7 +1,6 @@
 from database import *
 
 
-
 def menu():
     print("""
 ====================================
